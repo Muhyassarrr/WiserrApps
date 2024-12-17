@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250516565163",
+    "project_id": "wiserrapps1",
+    "storage_bucket": "wiserrapps1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250516565163:android:f00683f9a7a19870275bee",
+        "android_client_info": {
+          "package_name": "com.example.wiserrapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuIzw20tEzGJ2STPe_22QQTMmwXEyiHT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
